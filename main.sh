@@ -16,7 +16,7 @@ case $input in
     $pwd/GetID.sh
      ;;
     'D')
-    $pwd//cronID.sh
+    $pwd/cronID.sh
     ;;
     *)
     exit 1
