@@ -37,8 +37,10 @@ This will install service that run GetID script on service
 ## Support
 
 For any query or issue, contact:
-Whatsapp: +60 1116745806
-Facebook: Rais Helmy
+
+https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white Whatsapp: +60 1116745806
+
+https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white Facebook: Rais Helmy
 
 
 ## License
