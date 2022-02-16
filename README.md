@@ -4,7 +4,7 @@ This is script for Linux (tested for Ubuntu 20 LTS. The script will going to pre
 ## Demo
 
 Just type ./main/sh for our main file or just run ./GetID.sh to see the simple process
-![Demo](link)
+![Demo](https://github.com/RaisHelmy/LinuxDynamicServerScriptRH/blob/main/linuxscriptGetID.gif)
 
 # Project Problem
 
